@@ -2,7 +2,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mansoor-ahmed-bb147a431/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mansoor-ahmed-bb147a431/)
 [![TikTok](https://img.shields.io/badge/TikTok-Follow-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@mansoor_is_live?_r=1&_t=ZN-9ARFC0D7osY))
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansoorkim08@gmail.com)
 
