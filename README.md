@@ -40,11 +40,9 @@
 
 
 
-<h3>📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorkalwar&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=mansoorkalwar&show_icons=true&theme=tokyonight&hide_border=true" />
-</a>
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorkalwar&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mansoorkalwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
