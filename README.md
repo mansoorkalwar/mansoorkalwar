@@ -37,3 +37,14 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+<h3>📊 GitHub Stats</h3>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorkalwar&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=mansoorkalwar&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
