@@ -43,6 +43,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="184" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorkalwar&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-  <img height="184" src="https://github-readme-stats.vercel.app/api?username=mansoorkalwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorkalwar&layout=compact&langs_count=5&theme=tokyonight&hide_border=true&card_width=400" alt="Most Used Languages" />
+  <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=mansoorkalwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
