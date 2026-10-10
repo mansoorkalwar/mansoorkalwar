@@ -42,7 +42,7 @@
 
 ## 📊 GitHub Stats
 
-[<p align="center">
+<p align="center">
   <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoorkalwar&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=tokyonight&card_width=400" alt="Most Used Languages" />
   <img height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=mansoorkalwar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 
