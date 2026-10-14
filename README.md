@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansoorkim08@gmail.com)
 
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies  &  Tools
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
